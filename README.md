@@ -1,2 +1,2 @@
 # Finance-caculator
-This is a calculator aims to simplify finance equations in undergraduate classes and further expand to investorss calculator that are able to keeping up with all the real-time data 
+This calculator is designed to simplify financial equations for undergraduate students and to further evolve into an investors' calculator that keeps up with real-time data.
